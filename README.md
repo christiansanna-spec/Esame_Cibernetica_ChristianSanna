@@ -1,2 +1,7 @@
-# Esame_Cibernetica_ChristianSanna
- Esame di Cibernetica e Teoria delle informazioni
+- Christian Sanna
+- christiansanna@studenti.accademiasironi.it
+- Matricola: 4284
+- Link Github: https://github.com/christiansanna-spec/Kit-Esame-Cibernetica-02-25.git
+
+
+

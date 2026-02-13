@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9899e7c4265d4d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "345bf2ab5387c296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a6737ce88bddd95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0cbb1d9642ec33c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dbf3746e212b0f9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4deb8506395ab855",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e0faf6008d5853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32ef0e114e73bffc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-NotebookLM/NotebookB/NotebookB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NotebookB"
+            }
+          },
+          {
+            "id": "737f5e65cd281196",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-NotebookLM/NotebookB/NotebookB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NotebookB"
+            }
+          },
+          {
+            "id": "b57b003a31c9ddea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ab549ae5ffd43d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4c589177d48a6a4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-NotebookLM/NotebookB/NotebookB.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NotebookB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "README.md",
+    "02-NotebookLM/NotebookA_Main/Notebook_A.md",
+    "02-NotebookLM/NotebookB_Main/Notebook_B.md",
+    "01-Gem/Gem 02 - Print-Production Engineer.md",
+    "01-Gem/GEM 01 - Gemìere.md",
+    "02-NotebookLM/NotebookA_Main/LinkNotebookA.md",
+    "02-NotebookLM/NotebookB_Main/NotebookB.md",
+    "02-NotebookLM/NotebookA_main/NotebookA.md",
+    "mater.md",
+    "Untitled/2.md",
+    "Untitled",
+    "Template/Template_GEM.md",
+    "2004-02-20.md",
+    "Template/Template_Notebook.md",
+    "01-Gem/Gem 01 - Gemìere.md",
+    "Template",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/STRUTTURA DEL GENERE NOIR.md",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/How to Make Precise Edits to Any Image Using the Brush Tool _ LTX Studio.pdf",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/FLUX.2 Prompting Guide_ Best FLUX.2 Prompts _ LTX Studio.pdf",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/FLUX.2 Pro vs Nano Banana Pro _ LTX Studio.pdf",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/Architettura_Motore_LTX.md.md",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/01_SYSTEM MANIFESTO.md",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/Al mare con la ragazza.md",
+    "02-NotebookLM/NotebookB_Main/Materiale_NotebookB/00_Manifesto.md",
+    "02-NotebookLM/NotebookB_Main/Materiale_NotebookB/05_Substance_LookDev_ACES.md",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/How to Storyboard _ LTX Studio.pdf",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/End-of-January LTX-2 Drop_ Better Control for Real Workflows _ LTX Blog.pdf",
+    "02-NotebookLM/NotebookA/Materiale_NotebookA/Materiale_NotebookA.md",
+    "End-of-January LTX-2 Drop_ Better Control for Real Workflows _ LTX Blog.pdf",
+    "02-NotebookLM/NotebookA_Main/Materiale_NotebookA",
+    "02-NotebookLM/NotebookA/Materiale_NotebookA.md",
+    "02-NotebookLM/NotebookB/LinkNotebookB.md",
+    "02-NotebookLM/NotebookB_Main/Materiale_NotebookB",
+    "99-SalaMacchine/Template/NotebookTemplate.md",
+    "99-SalaMacchine/Template/GEMTemplate.md",
+    "99-SalaMacchine/DefaultShortcut.png",
+    "Legenda chiavi da tastiera.md"
+  ]
+}
