@@ -1,4 +1,8 @@
-Christian Sanna
-christiansanna@studenti.accademiasironi.it
-Matricola: 4284
-Link GitHub: https:https://github.com/christiansanna-spec/Esame_Cibernetica_ChristianSanna.git
+- Esame: **Cibernetica e Teoria delle Informazioni**
+- Scuola: Arti Digitali e Multimedia Interattivi
+- Diploma: Biennio Specialistico, Anno I
+- Docente: prof. Davide Riboli
+- Studente: Christian Sanna
+- Mail: christiansanna@studenti.accademiasironi.it
+- Matricola: 4284
+- Link GitHub: https:https://github.com/christiansanna-spec/Esame_Cibernetica_ChristianSanna.git
