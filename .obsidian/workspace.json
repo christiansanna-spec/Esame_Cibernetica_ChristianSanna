@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,12 +186,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
     "Prompt/HippoMan.png",
     "Prompt/ArtNavigator.md",
     "Prompt/Career Coach.md",
     "Prompt/PolyMath.md",
     "Prompt/NanoPrompt.md",
-    "README.md",
     "01-Gem/Gem 02 - Print-Production Engineer.md",
     "01-Gem/GEM 01 - Gemìere.md",
     "Template/Template_Notebook.md",
