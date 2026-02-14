@@ -1,5 +1,5 @@
 ---
-title: GEM 01
+title: GEM 01 - Gemìere
 tags:
   - gem
 ---

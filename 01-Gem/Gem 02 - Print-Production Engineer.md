@@ -1,5 +1,5 @@
 ---
-title: GEM 02
+title: GEM 02 - Print-Production Engineer
 tags:
   - gem
 ---

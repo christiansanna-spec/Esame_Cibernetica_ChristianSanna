@@ -1,7 +1,6 @@
 - Christian Sanna
 - christiansanna@studenti.accademiasironi.it
 - Matricola: 4284
-- Link Github: https://github.com/christiansanna-spec/Kit-Esame-Cibernetica-02-25.git
-
+- Link Github:https://github.com/christiansanna-spec/Esame_Cibernetica_ChristianSanna.git
 
 
