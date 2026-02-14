@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-NotebookLM/NotebookB_Main/Notebook_B.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notebook_B"
+              "title": "README"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
+    "02-NotebookLM/NotebookB_Main/Notebook_B.md",
     "02-NotebookLM/NotebookB_Main/Materiale_NotebookB/06_UE5_Technical_Docs.md",
     "02-NotebookLM/NotebookB_Main/Materiale_NotebookB/05_Substance_LookDev_ACES.md",
     "02-NotebookLM/NotebookB_Main/Materiale_NotebookB/00_Manifesto.md",
@@ -197,7 +199,6 @@
     "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/STRUTTURA DEL GENERE NOIR.md",
     "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/FLUX.2 Pro vs Nano Banana Pro _ LTX Studio.pdf",
     "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/Al mare con la ragazza.md",
-    "README.md",
     "Prompt/HippoMan.png",
     "Prompt/ArtNavigator.md",
     "Prompt/Career Coach.md",
@@ -209,7 +210,6 @@
     "Template/Template_Random_Prompt.md",
     "Template/Template_GEM.md",
     "Prompt/Mira.md",
-    "02-NotebookLM/NotebookB_Main/Notebook_B.md",
     "02-NotebookLM/NotebookB_Main/Materiale_NotebookB/04_Blender_Interchange_Manual.md",
     "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/How to Storyboard _ LTX Studio.pdf",
     "02-NotebookLM/NotebookA_Main/Materiale_NotebookA/How to Make Precise Edits to Any Image Using the Brush Tool _ LTX Studio.pdf",
